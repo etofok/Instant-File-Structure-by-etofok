@@ -55,7 +55,7 @@ It's not complicated I promise.
 
 | File Name                 | Extension         | Purpose |
 | :----------------         | :------           | :---- |
-| Instant File Structure (Video Editing Project)   |   .bat            | The App itself (RUN THIS!) |
+| Instant File Structure   |   .bat            | The App itself (RUN THIS!) |
 
 
 
