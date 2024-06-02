@@ -3,7 +3,7 @@
 
 
 <p align="center">
- <img src="web/WelcomeSplash.png" alt="WelcomeSplash">
+ <img src="web/WelcomeSplash1.png" alt="WelcomeSplash1">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
- <img src="web/Result.png" alt="WelcomeSplash">
+ <img src="web/Result.png" alt="Result">
 </p>
 
 
